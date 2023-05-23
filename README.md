@@ -1,3 +1,3 @@
-# Addon Name
+# KuiNameplates
 
-This is the repository for <Addon Name>. Modified for Ascension.gg. 
+This is the repository for KuiNameplates. Modified for Ascension.gg.
